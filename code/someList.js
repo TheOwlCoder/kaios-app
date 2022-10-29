@@ -14,7 +14,7 @@
             entry.setAttribute('data-function', 'changeColor');
 
             var headline = document.createElement("h3");
-            headline.innerText = 'Headline ' + (i+1);
+            headline.innerText = 'Post Placeholder #' + (i+1);
             entry.appendChild(headline);
             container.appendChild(entry);
         }

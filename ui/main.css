@@ -51,6 +51,7 @@ button::-moz-focus-inner {
   height: 10%;
   line-height: 150%;
   background-color: #6366f1;
+  font-family: "Open Sans";
 }
 
 #softkeyBar button {

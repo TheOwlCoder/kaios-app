@@ -98,8 +98,8 @@ button::-moz-focus-inner {
   -moz-appearance: none;
   appearance: none;
   padding: 0;
-  background-color: #CCCCCC;
-  color: #323232;
+  background-color: white;
+  color: #6366f1;
   height: 1.4em;
 }
 

@@ -11,7 +11,7 @@ var MODULE = (function () {
   app.currentNavId = 0;
   app.navItems = new Array();
 
-  app.backEnabled = false;
+  app.backEnabled = true;
   app.optionEnabled = false;
   app.fullAdVisible = false;
 

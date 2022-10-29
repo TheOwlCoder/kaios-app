@@ -9,7 +9,7 @@ body {
   height: 100vh;
   width: 100vw;
   color: white;
-  background-color: darkslategray;
+  background-color: white;
   font-family: 'Open Sans', sans-serif;
   font-style: normal;
   overflow: hidden;
@@ -104,8 +104,8 @@ button::-moz-focus-inner {
 }
 
 .view select:focus, .view input:focus, .navItem:focus {
-  background-color: purple;
-  border-color: purple;
+  background-color: #6366f1;
+  border-color: #6366f1;
   color: white;
 }
 

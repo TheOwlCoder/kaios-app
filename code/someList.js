@@ -14,7 +14,7 @@
             entry.setAttribute('data-function', 'changeColor');
 
             var headline = document.createElement("h3");
-            headline.innerText = 'Headline ' + i;
+            headline.innerText = 'Headline ' + i+1;
             entry.appendChild(headline);
 
             var content = document.createElement("span");

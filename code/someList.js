@@ -1,5 +1,5 @@
 (function (app) {
-    const listLength = 10; /* list items */
+    const listLength = 15; /* list items */
 
     window.addEventListener("load", function () {
         var listContainer = document.getElementById('generatedList');

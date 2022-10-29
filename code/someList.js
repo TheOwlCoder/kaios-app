@@ -16,11 +16,6 @@
             var headline = document.createElement("h3");
             headline.innerText = 'Headline ' + (i+1);
             entry.appendChild(headline);
-
-            var content = document.createElement("span");
-            content.innerText = 'tabIndex: ' + entry.tabIndex;
-            entry.appendChild(content);
-
             container.appendChild(entry);
         }
     }
